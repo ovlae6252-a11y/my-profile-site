@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "WebSearch"
+    ],
+    "defaultMode": "plan"
+  },
+  "outputStyle": "Beginner Friendly"
+}
